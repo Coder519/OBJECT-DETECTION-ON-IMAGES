@@ -1,5 +1,6 @@
 .heading
 {
+font-size: 23px;
 width: 100%;
 margin: 0px;
 }
@@ -8,17 +9,20 @@ margin: 0px;
 {
 font-size: 18px;
 }
-
-body{
-    background-size: cover;
-}
-
 canvas{
-    box-shadow: 10px 10px 10px blue;
-    border-radius: 20px;
+    
+    border-radius: 10px;
+    border: white solid 4px ridge;
+ 
 }
-#btn{
-    border-radius: 20px;
-    height: 40px;
-    width: 100px;
+body{
+    text-align: center;
+    color: white;
+    font-family: 'Caveat', cursive;
+
+}
+#bed,#tv,#desk,#fruit{
+    width: 200px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px grey;
 }
