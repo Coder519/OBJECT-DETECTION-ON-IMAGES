@@ -1,28 +1,12 @@
+body
+{
+    background-size: cover;
+}
 .heading
 {
-font-size: 23px;
-width: 100%;
-margin: 0px;
-}
-
-#status
-{
-font-size: 18px;
-}
-canvas{
-    
-    border-radius: 10px;
-    border: white solid 4px ridge;
- 
-}
-body{
-    text-align: center;
-    color: white;
-    font-family: 'Caveat', cursive;
-
-}
-#bed,#tv,#desk,#fruit{
-    width: 200px;
-    margin-top: 10px;
-    box-shadow: 5px 5px 5px grey;
+    margin: 0px;
+    font-size: 30px;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+    color: red;
 }
